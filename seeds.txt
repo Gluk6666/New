@@ -1,0 +1,12 @@
+com.mxtech.mxvp_intent_test.BuildConfig: BuildConfig()
+com.mxtech.mxvp_intent_test.R: R()
+com.mxtech.mxvp_intent_test.R$attr: R$attr()
+com.mxtech.mxvp_intent_test.R$drawable: int ic_launcher
+com.mxtech.mxvp_intent_test.R$drawable: R$drawable()
+com.mxtech.mxvp_intent_test.R$layout: int main
+com.mxtech.mxvp_intent_test.R$layout: R$layout()
+com.mxtech.mxvp_intent_test.R$string: int app_name
+com.mxtech.mxvp_intent_test.R$string: int hello
+com.mxtech.mxvp_intent_test.R$string: R$string()
+com.mxtech.mxvp_intent_test.TestActivity
+com.mxtech.mxvp_intent_test.TestActivity: TestActivity()
